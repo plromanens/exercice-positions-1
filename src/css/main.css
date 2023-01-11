@@ -159,3 +159,11 @@ video {
   top: 80px;
   left: 144px;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.shape-rectangle-opac-3 {
+}
